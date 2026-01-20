@@ -12,3 +12,11 @@
 
 - Leave the Procedure at the top of the page.  
 
+# (2026-01-20 DF)
+Meeting with Landen
+Today we met with landen to answer some questions over his proposed experiment.
+Our Deliverables for next meeting and timeline.
+- Order stick, dowels, possibly make some 3D printed sticks.
+- Landen will start doing scale calcuations and measuring the sediment.
+- Landen will send photos of tree branches and trees with dimensions for us to reference when modeling.
+- We will finalize gate valve placement and fix flume for small flows. 
